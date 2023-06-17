@@ -1,0 +1,4 @@
+name: Survival
+version: '${project.version}'
+main: me.daanylo.survival.Survival
+api-version: 1.19
